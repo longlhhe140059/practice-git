@@ -1,10 +1,10 @@
 A: sometime learning is hard and you cant do it alone
-what do you do in that time ?
-dont you pay atention
-i say cant do it alone 
-which mean you need somebody to help
-oh i see
-no you dont see you said understand or hear it
-do you understand
-ok boss
+B: what do you do in that time ?
+A: dont you pay atention
+A:i say cant do it alone 
+A: which mean you need somebody to help
+B: oh i see
+A: no you dont see you said understand or hear it
+A: do you understand
+B: ok boss
 A: 
